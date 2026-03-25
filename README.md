@@ -28,7 +28,7 @@ class AsifAli:
         self.role        = "AI Engineer & CS Graduate"
         self.university  = "FAST-NUCES Islamabad"
         self.cgpa        = 3.07 / 4.0
-        self.graduation  = "July 2025"
+        self.graduation  = "2025 Graduate ✅"
         self.focus       = ["Agentic AI", "LLMs", "RAG Systems", "Deep Learning"]
         self.contact     = "asifaali1917@gmail.com"
 
@@ -53,7 +53,7 @@ I'm a **final-year Computer Science student** at FAST-NUCES with a passion for *
 📍 Islamabad, Pakistan
 🎓 Bachelor of Science in Computer Science
 📊 CGPA: **3.07 / 4.0**
-📅 Expected Graduation: **July 2025**
+🎓 Graduated: **2025**
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ I'm a **final-year Computer Science student** at FAST-NUCES with a passion for *
 
 ## 💼 Experience
 
-### 🤖 AI Intern — MTBC CareCloud *(April – June 2025)*
+### 🤖 AI Intern — MTBC CareCloud 
 
 > *A leading US-based healthcare IT company with a global engineering presence*
 
@@ -79,52 +79,6 @@ I'm a **final-year Computer Science student** at FAST-NUCES with a passion for *
 - 📐 Implemented advanced **data pre-processing**, **feature engineering**, and **model optimization** techniques for academic and industry-aligned research projects
 - 📈 Contributed to improving model accuracy and efficiency through rigorous experimentation
 - 🤝 Collaborated with cross-functional research teams on complex ML pipelines
-
----
-
-## 🚀 Featured Projects
-
-> *The following projects are available in my GitHub repositories — feel free to explore the code!*
-
----
-
-### 🎯 AdInsight — Browser Extension for Video Ad Analytics
-**`Python` `JavaScript` `TensorFlow` `PostgreSQL`**
-
-A full-stack browser extension platform for intelligent video advertisement analysis.
-- 📊 Modules for **engagement tracking**, **demographic analysis**, and **object detection**
-- 🧠 Deep learning-powered real-time inference on video streams
-- 🗄️ PostgreSQL-backed analytics dashboard
-
----
-
-### 🎬 Conditional Video Frame Prediction — Deep Learning on UCF101
-**`Python` `TensorFlow` `ConvLSTM` `PredRNN` `Transformers`**
-
-Predicting future video frames from short input sequences using state-of-the-art spatiotemporal models.
-- 🔮 Implemented **ConvLSTM**, **PredRNN**, and **Transformer** architectures
-- 🎥 Generates continuous motion clips for video synthesis and scene prediction
-- 📦 Benchmarked on the **UCF101** action recognition dataset
-
----
-
-### 🌍 Environmental Monitoring & Pollution Prediction System
-**`Python` `TensorFlow/PyTorch` `DVC` `MLflow` `FastAPI`**
-
-An end-to-end MLOps pipeline for weather and pollution forecasting.
-- 📡 Real-time data ingestion via **OpenWeatherMap API**
-- 📈 Forecast models: **ARIMA** (statistical) + **LSTM** (deep learning)
-- 🚀 **FastAPI** deployment with **MLflow** experiment tracking & **DVC** versioning
-
----
-
-### 🏥 Virtual AI Doctor — Agentic Healthcare Assistant
-**`LangChain` `LangGraph` `OpenAI API` `Flask` `FastAPI`**
-
-An autonomous healthcare assistant powered by Agentic AI — making medical guidance accessible to all.
-- 🩺 Interacts with patients to analyze symptoms and provide **basic medical advice & OTC treatment** recommendations
-- 🚨 Detects critical conditions and **auto-escalates** to a human doctor with appointment booking
-- 🔗 Built with **LangGraph** multi-agent orchestration for safe, responsive healthcare automation
 
 ---
 
@@ -167,16 +121,6 @@ An autonomous healthcare assistant powered by Agentic AI — making medical guid
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliasif767&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasif767&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasif767&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
