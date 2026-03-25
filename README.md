@@ -28,18 +28,22 @@ class AsifAli:
         self.role        = "AI Engineer & CS Graduate"
         self.university  = "FAST-NUCES Islamabad"
         self.cgpa        = 3.07 / 4.0
-        self.graduation  = "2025 Graduate ✅"
+        self.graduated   = "2025 ✅"
         self.focus       = ["Agentic AI", "LLMs", "RAG Systems", "Deep Learning"]
+        self.experience  = ["AI Intern @ MTBC CareCloud", "Research Assistant @ FAST University"]
         self.contact     = "asifaali1917@gmail.com"
+        self.open_to     = "Full-time AI/ML Engineering Roles 🚀"
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent together. 🚀")
+    def about(self):
+        return (
+            "CS Graduate passionate about building production-grade AI systems. "
+            "I specialize in Agentic AI, Gen AI,Computer vision and Deep Learning — "
+            "bridging the gap between cutting-edge research and real-world impact."
+        )
 
 me = AsifAli()
-me.say_hi()
+print(me.about())
 ```
-
-I'm a **final-year Computer Science student** at FAST-NUCES with a passion for **Agentic AI**, **RAG pipelines**, and **production-grade ML systems**. I love bridging the gap between cutting-edge AI research and real-world applications — from virtual AI doctors to environmental pollution forecasters.
 
 ---
 
@@ -63,7 +67,7 @@ I'm a **final-year Computer Science student** at FAST-NUCES with a passion for *
 
 ## 💼 Experience
 
-### 🤖 AI Intern — MTBC CareCloud 
+### 🤖 AI Engineer
 
 > *A leading US-based healthcare IT company with a global engineering presence*
 
@@ -119,12 +123,6 @@ I'm a **final-year Computer Science student** at FAST-NUCES with a passion for *
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasif767&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
 
 ---
 
