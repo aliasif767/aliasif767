@@ -29,7 +29,7 @@ class AsifAli:
         self.university  = "FAST-NUCES Islamabad"
         self.cgpa        = 3.07 / 4.0
         self.graduated   = "2025 ✅"
-        self.focus       = ["Agentic AI", "LLMs", "RAG Systems", "Deep Learning"]
+        self.focus       = ["Agentic AI", "LLMs", "GEN AI", "Deep Learning"]
         self.experience  = ["AI Engineer @ MTBC CareCloud", "Research Assistant @ FAST University"]
         self.contact     = "asifaali1917@gmail.com"
         self.open_to     = "Full-time AI/ML Engineering Roles 🚀"
